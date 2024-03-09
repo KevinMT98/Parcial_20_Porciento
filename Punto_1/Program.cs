@@ -25,11 +25,7 @@ internal class Program
 
         totalventa = (venta1 + venta2 + venta3);
 
-        if (totalventa > MetaComision)
-        {
-            Console.Write("El empleado gano el bono de 100,000 $ por superar la meta de las ventas");
-            Console.WriteLine();
-        }
+       
 
         comision1 = (venta1 * 0.10);
         comision2 = (venta2 * 0.10);
@@ -59,8 +55,14 @@ internal class Program
 
         promedio = (comision1 + comision2 + comision3) / 3;
 
-        Console.Write($"Total promedio : {promedio.ToString("#,##0")}");
+        Console.Write($"Total promedio por comision : {promedio.ToString("#,##0")}");
         Console.WriteLine();
+
+        if (totalventa > MetaComision)
+        {
+            Console.Write("El empleado gano el bono de 100,000 $ por superar la meta de las ventas");
+            Console.WriteLine();
+        }
 
     }
 
