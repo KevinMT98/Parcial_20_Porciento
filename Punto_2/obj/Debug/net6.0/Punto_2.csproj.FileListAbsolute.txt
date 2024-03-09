@@ -1,0 +1,15 @@
+C:\Parcial_20_Porciento\Punto_2\bin\Debug\net6.0\Punto_2.exe
+C:\Parcial_20_Porciento\Punto_2\bin\Debug\net6.0\Punto_2.deps.json
+C:\Parcial_20_Porciento\Punto_2\bin\Debug\net6.0\Punto_2.runtimeconfig.json
+C:\Parcial_20_Porciento\Punto_2\bin\Debug\net6.0\Punto_2.dll
+C:\Parcial_20_Porciento\Punto_2\bin\Debug\net6.0\Punto_2.pdb
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.AssemblyInfoInputs.cache
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.AssemblyInfo.cs
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.csproj.CoreCompileInputs.cache
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.sourcelink.json
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.dll
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\refint\Punto_2.dll
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.pdb
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\Punto_2.genruntimeconfig.cache
+C:\Parcial_20_Porciento\Punto_2\obj\Debug\net6.0\ref\Punto_2.dll
